@@ -1,0 +1,14 @@
+.Calculadora {
+  margin: 0 auto;
+  padding: 3rem 0rem;
+  max-width: 400px;
+  display: flex;
+  flex-direction: column;
+}
+
+.keys {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(4, 1fr);
+  gap: 2px;
+}

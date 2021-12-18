@@ -1,0 +1,15 @@
+.plus {
+  grid-row: span 2;
+}
+
+button {
+  padding: 20px 10px;
+  background-color: coral;
+  border: 1px solid rgb(211, 104, 65);
+  border-radius: 4px;
+  font-size: 2rem;
+}
+
+button:hover {
+  background-color: rgb(211, 104, 65);
+}
