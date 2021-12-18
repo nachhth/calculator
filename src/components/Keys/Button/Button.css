@@ -10,6 +10,6 @@ button {
   font-size: 2rem;
 }
 
-button:hover {
+button:active {
   background-color: rgb(211, 104, 65);
 }
